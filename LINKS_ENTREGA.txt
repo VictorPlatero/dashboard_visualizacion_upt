@@ -1,0 +1,23 @@
+ACTIVIDAD GRUPAL 01 – VISUALIZATION REPORTS OR DASHBOARD
+
+Integrante: Victor Joseph Platero Maron
+Curso: Inteligencia de Negocios
+Universidad Privada de Tacna
+
+1. Artículo publicado:
+PEGAR_AQUI_URL_DEL_ARTICULO
+
+2. Repositorio público:
+https://github.com/VictorPlatero/dashboard_visualizacion_upt.git
+
+3. Aplicación desplegada:
+PEGAR_AQUI_URL_DE_RENDER
+
+4. Video (máximo 5 minutos):
+PEGAR_AQUI_URL_DEL_VIDEO
+
+5. Evidencia de automatización (GitHub Actions):
+PEGAR_AQUI_URL_DE_ACTIONS_O_WORKFLOW
+
+Nota:
+Después de publicar el artículo y el video, enviar ambos enlaces al grupo de Telegram y luego reemplazar los marcadores anteriores con las URLs finales.
